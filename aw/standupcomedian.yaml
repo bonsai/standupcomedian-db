@@ -1,0 +1,55 @@
+api_version: v1
+id: standupcomedian
+name: Stand-up Comedian Research AW
+version: "0.1"
+
+seed:
+  source: data/seed.jsonl
+  entities: comedian
+
+discovery:
+  sources:
+    - id: tokyo-comedy-bar
+      url: https://www.tokyocomedybar.com/
+      crawler: scripts/crawl_tcb.py
+      type: official
+
+workflow:
+  - seed
+  - discover
+  - crawl
+  - extract
+  - normalize
+  - validate
+  - dedupe
+  - upsert
+  - learn
+
+entity:
+  type: standup_comedian
+  fields:
+    - id
+    - name
+    - stage_name
+    - language
+    - base
+    - affiliation
+    - source_url
+    - source_type
+    - confidence
+
+normalization:
+  language:
+    values: [ja, en, other]
+    allow_multiple: true
+  source_type: official
+
+outputs:
+  candidates: data/tcb-candidates.jsonl
+  canonical: data/comedians.jsonl
+
+policy:
+  - Preserve source_url and provenance.
+  - Never promote a candidate without a source.
+  - Language may be multi-valued.
+  - Person data belongs here; event data belongs to stage-search.
