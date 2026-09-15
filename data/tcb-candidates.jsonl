@@ -1,24 +1,24 @@
-{"name":"BJ Fox","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/comedians","source_type":"tokyo_comedy_bar","seed":true}
-{"name":"Jon Sabay","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/media","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"Ishii Terumi","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/media","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"新道竜巳","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"ケーシーハシモト","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"Hiroki","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"Carol DeWolf","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"蓬田清公","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"Naoto","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"KOHEI","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"HARU","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"Hikaru","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"Tom","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"Max Kevin","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"Ryo Hayashi","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"Tatsuya","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"やえ","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"Baha","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"うどしんぺい","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/ja/show/83c509b8-2a5c-4959-853c-7a17331a2cf1","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"ゆーだい","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/249bad3a-d5bd-47c3-aebf-5729999587bb","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"たろう","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/249bad3a-d5bd-47c3-aebf-5729999587bb","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"Yo","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/event/249bad3a-d5bd-47c3-aebf-5729999587bb","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"村本大輔","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/ja/show/83c509b8-2a5c-4959-853c-7a17331a2cf1","source_type":"tokyo_comedy_bar","seed":false}
-{"name":"かやのきみ","type":"standup_comedian","source_url":"https://www.tokyocomedybar.com/ja/show/83c509b8-2a5c-4959-853c-7a17331a2cf1","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"BJ Fox","type":"standup_comedian","language":["en","ja"],"source_url":"https://www.tokyocomedybar.com/comedians","source_type":"tokyo_comedy_bar","seed":true}
+{"name":"Jon Sabay","type":"standup_comedian","language":["en","ja"],"source_url":"https://www.tokyocomedybar.com/media","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"Ishii Terumi","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/media","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"新道竜巳","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"ケーシーハシモト","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"Hiroki","type":"standup_comedian","language":["ja","en"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"Carol DeWolf","type":"standup_comedian","language":["en"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"蓬田清公","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"Naoto","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"KOHEI","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"HARU","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"Hikaru","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"Tom","type":"standup_comedian","language":["en","ja"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"Max Kevin","type":"standup_comedian","language":["en"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"Ryo Hayashi","type":"standup_comedian","language":["ja","en"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"Tatsuya","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"やえ","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"Baha","type":"standup_comedian","language":["en"],"source_url":"https://www.tokyocomedybar.com/event/38f593bf-8539-4e98-ae51-d436e45a09e2","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"うどしんぺい","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/ja/show/83c509b8-2a5c-4959-853c-7a17331a2cf1","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"ゆーだい","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/event/249bad3a-d5bd-47c3-aebf-5729999587bb","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"たろう","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/event/249bad3a-d5bd-47c3-aebf-5729999587bb","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"Yo","type":"standup_comedian","language":["en","ja"],"source_url":"https://www.tokyocomedybar.com/event/249bad3a-d5bd-47c3-aebf-5729999587bb","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"村本大輔","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/ja/show/83c509b8-2a5c-4959-853c-7a17331a2cf1","source_type":"tokyo_comedy_bar","seed":false}
+{"name":"かやのきみ","type":"standup_comedian","language":["ja"],"source_url":"https://www.tokyocomedybar.com/ja/show/83c509b8-2a5c-4959-853c-7a17331a2cf1","source_type":"tokyo_comedy_bar","seed":false}
